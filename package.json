@@ -9,7 +9,7 @@
   "author": "Ahvin",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.0.0-rc.6",
     "bootstrap": "^4.0.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
