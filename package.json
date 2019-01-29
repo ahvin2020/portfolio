@@ -1,0 +1,33 @@
+{
+  "name": "Ahvin",
+  "version": "0.0.1",
+  "description": "Ahvin Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahvin",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}

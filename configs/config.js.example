@@ -1,0 +1,19 @@
+var config = {
+	sql: {
+		// local
+		host: 'localhost',
+    	user: 'root',
+    	password: '',
+    	database: 'ahvin',
+    	connectionLimit: 200,
+
+    	// production
+		hostProduction: 'localhost',
+    	userProduction: '<user>',
+    	passwordProduction: '<password>',
+    	databaseProduction: '<db>',
+    	connectionLimitProduction: 200,
+	},
+};
+
+module.exports = config;
