@@ -9,15 +9,15 @@
   "author": "Ahvin",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.0.0-rc.6",
+    "async": "2.0.0-rc.6",
     "bootstrap": "^4.0.0",
-    "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "ejs": "2.5.6",
+    "express": "4.13.4",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "jquery.easing": "^1.4.1",
     "magnific-popup": "^1.1.0",
-    "mysql": "^2.15.0"
+    "mysql": "~2.11.1"
   },
   "devDependencies": {
     "browser-sync": "^2.23.6",
